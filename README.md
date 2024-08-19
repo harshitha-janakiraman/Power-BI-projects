@@ -4,7 +4,7 @@
 **"Plant Co. Sales Performance 2023"**
 
 ### Overview:
-This dashboard provides a comprehensive view of sales performance for Plant Co. in the year 2023. It compares the Year-To-Date (YTD) sales with the Previous Year-To-Date (PYTD) sales and includes various visualizations to highlight performance metrics across different dimensions like countries, products, and time periods.
+This dashboard provides a comprehensive view of sales performance for Plant Co. in the year 2023. It compares the Year-To-Date (YTD) sales with the Previous Year-To-Date (PYTD) sales and includes various visualizations to highlight performance metrics across different dimensions like countries, products, and time periods. DAX functions were extensively used to build the measures table, which was used for the visualization. Additionally, other Power BI features such as dynamic titles and switching between different measures were also leveraged to make the dashboard as useful and informative as possible. 
 
 ### Key Metrics (Top Row):
 1. **YTD (Year-To-Date) Sales:** 
